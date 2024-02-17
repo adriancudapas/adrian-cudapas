@@ -1,0 +1,6 @@
+{
+    "message":  {
+        "email": "Email Address is required",
+        "password": "Password is required"
+    }
+}
